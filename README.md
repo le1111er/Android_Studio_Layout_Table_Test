@@ -1,2 +1,2 @@
-# Android_Studio_Layout_Linear_Test
-![image](https://user-images.githubusercontent.com/39452452/138674444-267693ae-627b-455b-8ac6-a38c9c9882bd.png)
+# Android_Studio_Layout_Table_Test
+![image](https://user-images.githubusercontent.com/39452452/138677041-533aa850-2607-4b3b-b2cc-9a670e6d51fc.png)
